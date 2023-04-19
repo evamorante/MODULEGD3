@@ -12,3 +12,6 @@
 
 var dishes = ["fondue", "raclette", "couscous"];
 console.log(dishes);
+
+var fruits = ["oranges", "apples", "bananas"];
+console.log(fruits);
