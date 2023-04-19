@@ -16,9 +16,9 @@ print(misterG[1])
 print(misterZ[1])
 print(missisA[1])
 
-#ajouter
-#enlever
-#remplacer
-#trier
-#inverser l'ordre
-#mesurer la longueur (nombre d'entrées de data)
+#ajouter songs.append("nouvelleEntrée")
+#enlever songs.pop(2)
+#remplacer songs["1"] = "une autre entrée" (ou songs.slice())
+#trier songs.sort()
+#inverser l'ordre songs.reverse()
+#mesurer la longueur (nombre d'entrées de data) len(songs)
