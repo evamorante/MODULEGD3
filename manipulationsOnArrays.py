@@ -16,6 +16,7 @@ print(misterG[1])
 print(misterZ[1])
 print(missisA[1])
 
+#afficher print(songs[0])
 #ajouter songs.append("nouvelleEntrée")
 #enlever songs.pop(2)
 #remplacer songs["1"] = "une autre entrée" (ou songs.slice())
