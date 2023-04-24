@@ -1,5 +1,3 @@
-# exercise 17. module 8
-
 i = 3
 while i <20:
     print("Hello")

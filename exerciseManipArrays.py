@@ -1,4 +1,3 @@
-#exercice 07. module 8
 """ Sort it by alphabetical order.
     Display each song in it on its own line in the terminal.
     Add a 5th song at the end of the array.
