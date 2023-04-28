@@ -16,6 +16,10 @@ print(misterG[1])
 print(misterZ[1])
 print(missisA[1])
 
+
+general_datas = ["Eva", 53, 161, "female"]
+print(general_datas)
+
 #afficher print(songs[0])
 #ajouter songs.append("nouvelleEntrée")
 #enlever songs.pop(2)
