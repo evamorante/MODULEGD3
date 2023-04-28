@@ -1,4 +1,5 @@
 var fruits = ["oranges", "bananas", "strawberry", "apple"];
+console.log(fruits);
 
 /**afficher
 ajouter 
